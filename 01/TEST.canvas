@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"045e3468d301db90","type":"text","text":"$\\frac{1}{m}$\n","x":-540,"y":-540,"width":470,"height":517},
+		{"id":"2440e091635be560","type":"text","text":"$\\frac{1}{m} = \\frac{C^2}{E}$\n","x":-1160,"y":-540,"width":470,"height":517}
+	],
+	"edges":[]
+}
