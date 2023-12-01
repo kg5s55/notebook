@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "b001aba3c4369020",
+    "type": "split",
+    "children": [
+      {
+        "id": "d239f07d16ee25a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cf2ad7b946e9c4c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -28,
+                  "y": 8.3125,
+                  "zoom": 1
+                }
+              }
+            }
+          },
+          {
+            "id": "b54c667ad4aed930",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -523.5,
+                  "y": -272.9188978006414,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e049659216b4ca71",
+    "type": "split",
+    "children": [
+      {
+        "id": "702f8f1b831178e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2805bcdd0e65dc8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3726c678aa14a476",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00424003c625603d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b448f4ede2881fe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "442a26a75207acf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6244491d7f1071d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6dd0a42ac2f5fbca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53a7c2f08b616776",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18315e8dcf2f4601",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "b54c667ad4aed930",
+  "lastOpenFiles": [
+    "未命名.md",
+    "未命名.canvas",
+    "K.md",
+    "2023-12-01.md"
+  ]
+}
